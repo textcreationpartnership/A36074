@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to be communicated to Friends &amp; to be read in the fear of the Lord in their men and womens meetings, and other meetings, only among Friends as they in the wisdom of God shall see meet and serviceable</title>
+            <author>Niesen, Geertruyd Deriks.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36074</idno>
+            <idno type="STC">Wing D1558</idno>
+            <idno type="STC">ESTC R6660</idno>
+            <idno type="EEBO-CITATION">13705287</idno>
+            <idno type="OCLC">ocm 13705287</idno>
+            <idno type="VID">101480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 842:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to be communicated to Friends &amp; to be read in the fear of the Lord in their men and womens meetings, and other meetings, only among Friends as they in the wisdom of God shall see meet and serviceable</title>
+                  <author>Niesen, Geertruyd Deriks.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[England? :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from colophon.</note>
+                  <note>Signed at end: Geertruyd Deriks Niesen.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101480:1"/>
+            <pb n="1" facs="tcp:101480:1" rendition="simple:additions"/>
+            <head>An <hi>Epiſtle</hi> to be Communicated to <hi>Friends,</hi> &amp; to be read in the Fear of the Lord in their Men and Womens Meetings, and other Meetings; only among Friends, as they in the Wiſdom of God ſhall ſee meet and ſerviceable.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>WHereas it hath pleaſed the Lord in the unſpeakable Riches of his Mercy, to vi<g ref="char:EOLhyphen"/>ſit a Remnant in his Love, and to meet with us in a Way where we expected him not, when we were wandring from Mountain to Hill, and chuſing our own Ways, ſeeking the Living amongſt the Dead; yea, when we had long thus wearied our ſelves, and almoſt diſpaired of finding what we ſought, but were ſaying in our ſelves, <hi>Who ſhall aſcend up, or deſcend down for us, to bring that to us, without which our immortal Souls can find no Reſt?</hi> Even in that time is the Lord appear<g ref="char:EOLhyphen"/>ed, not as a God afar off, but a God near, even in our Hearts is he appeared through the Light of his Son, and thereby open'd he our Hearts and Underſtandings, according to his divine Wiſdom, who knew every ones State and every ones Neceſſity; and he became as a Pillar of a Cloud by Day, and as a Pillar of Fire by Night unto all ſuch as imbraced and received his Ap<g ref="char:EOLhyphen"/>pearance, and followed him faithfully; yea, he be<g ref="char:EOLhyphen"/>came as a <hi>wall of fire</hi> round about them who did whole<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:101480:2" rendition="simple:additions"/>
+put their truſt in him. And thus hath he gathered us to be a people, who were once as ſcattered Sheep that knew not the true Shepherd; and hath made us as Firſtlings upon his holy Mountain, that we might be as Lights and Leaders to the next Generations; and many are ſo in the Sight of the Lord and his Anoint<g ref="char:EOLhyphen"/>ed, and are ſo felt and known among his People.</p>
+            <p>And ſeeing we are called to be as Firſtlings and Ex<g ref="char:EOLhyphen"/>amples to the Generations that are coming after us, it is highly needful that we watch diligently in the Fear and Wiſdom of God, that nothing may be, nor remain among us as an Old Leaven, to grieve and burden the Redeemed, nor to be an Occaſion of Evil Example to the Young Ones that are coming up after us: And conſidering that it is every ones Duty to be faithful in their Meaſures, and not to put that under a <hi>Buſhel</hi> which is manifeſted from the Lord, but to bring it forth in the true Love of God, and Faithfulneſs to each other, to the edifying and building up, and to the A<g ref="char:EOLhyphen"/>mendment and Admonition of thoſe concerned, and that all Cauſes of Stumbling might be removed, and that we might not leave a <hi>Hoof</hi> in <hi>Egypt,</hi> but might all follow the <hi>Lamb</hi> as the <hi>Redeemed of the Lord</hi> together; and being Waſhed, Sanctified and Born a<g ref="char:EOLhyphen"/>gain, might come to ſing the New Song, with the New Name in our Foreheads, and Hallelujahs in our Mouths, <hi>Amen, Amen.</hi>
+            </p>
+            <p>For theſe good Ends it is in my heart to ſignifie theſe two things, that at the preſent are principally upon me, which I have born a weight concerning for ſeve<g ref="char:EOLhyphen"/>ral years, and did hope that ſome elder and fitter might feel the like Weight, and bring forth a Teſtimony con<g ref="char:EOLhyphen"/>cerning the ſame, whereupon I have forborn as long as well I durſt; but now finding that I am not clear<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:101480:2" rendition="simple:additions"/>
+of the Matter, but that in a freſh living Senſe it is renewed in me, I dare not longer forbear to write the things that are upon my Spirit in theſe two Particu<g ref="char:EOLhyphen"/>lars, and recommend the ſame unto God's Witneſs in all Conſciences.</p>
+            <p>The <hi>firſt</hi> thing that lies before me is, concerning the <hi>bringing up of our Children,</hi> which is a very weighty Concern; and every one that hath the bringing up of Children will have very much to anſwer for, if they do not quit themſelves as before the Lord in all Dili<g ref="char:EOLhyphen"/>gence and Faithfulneſs; they are God's Creatures, and given to Parents as a Gift from him, upon whom they are to improve their utmoſt Diligence, that they may grow up in the Fear of God; and that Parents ſhould not over-look things in their Children through fond Affection, which they know by the Light of Je<g ref="char:EOLhyphen"/>ſus to be evil and bad; neither ſpeak to them in a <hi>ſlen<g ref="char:EOLhyphen"/>der Reproof,</hi> as <hi>Eli</hi> did to his <hi>Sons,</hi> but from their youth upwards to ſet before their Eyes the Weight &amp; Dan<g ref="char:EOLhyphen"/>ger of their Iniquity, and that in a Holy Zeal, as for the Lord, and in a deep ſenſe of his holy Power, ſeeking in their young years to reach the Witneſs of God in them, and above all things, to be a Good Example to them in all things, or elſe we break down in them that which we ſeek to build up; for how can we build them up in the Faith, except we ſo ſtand in the Faith as to obtain the Victory in our ſelves? and how can we bring their Minds to the Light of Jeſus, except we walk in it? Neither ought any one to be bitter to their Chil<g ref="char:EOLhyphen"/>dren, nor to require more of them then we know they are of Ability to perform; and when they fall ſhort of their Duty, not to Correct them in our own Wills, nor in a Wrathful Angry Mind; for that Mind is it ſelf for Correction; but on the contrary, to help them with
+<pb n="4" facs="tcp:101480:3" rendition="simple:additions"/>
+the Rod of a gentle Chaſtizement, in the Fear of God, to bow their own ſtubborn Wills, and ſo comes the Wit<g ref="char:EOLhyphen"/>neſs in them to be reached, and they grow ſenſible in themſelves <hi>that the Rod hath been a Help to them,</hi> and come to feel a <hi>Love</hi> and <hi>Unity</hi> with them that have ſo helped them, while their Minds are kept to the Truth.</p>
+            <p>And ſeeing we are as a <hi>City ſet upon a Hill,</hi> and as <hi>Fore-runners</hi> and <hi>Leaders to the next Generations,</hi> where and in what ſhould the Pattern of our Godly Lives more appear and ſhine forth, then to the Innocent Children of our own Birth and Generation, which are committed to us as a particular Charge and Mini<g ref="char:EOLhyphen"/>ſtry, from their time of greateſt Innocency upwards, to whom we are bound by the Band of <hi>Nature,</hi> and by the Ordinance of <hi>God,</hi> to take Care over, and to bring up in his pure Fear, in all Wiſdom, Diſcretion and Watchfulneſs <hi>that we may be a good Savour in them and to them, whether it be unto Life, if they be Obedient, or unto Condemnation, if they become Rebellious?</hi> But alas! (with a great grief of ſpirit I write it) here is a great <hi>want</hi> and <hi>ſhortneſs</hi> in many profeſſing <hi>Truth</hi> (I ſpeak not of all) for <hi>firſt,</hi> they receive not their <hi>Children</hi> as from the Lord, in the Faith as his Gift, neither do they offer them up again to him in their <hi>hearts,</hi> as being his, but ſeeing their own Likeneſs brought forth, imbrace it as their own, and nouriſh it up in the <hi>ſelf-love,</hi> and their <hi>lives</hi> being bound up in the <hi>children,</hi> every Ap<g ref="char:EOLhyphen"/>pearance of <hi>ſickneſs</hi> or <hi>death</hi> is as a <hi>death to the Parents;</hi> and accordingly if the Child grow up till its perverſe and crooked Will begins to appear, then is the Father (and for the moſt part, moſt of all the Mother) afraid to give it due Correction fearing leſt the Child ſhould be grieved and vexed, and perhaps grow ſick, yea, per<g ref="char:EOLhyphen"/>haps dye, if it ſhould be corrected to the breaking of its ſtout and ſtubborn Will; and what is this but Un<g ref="char:EOLhyphen"/>belief
+<pb n="5" facs="tcp:101480:3" rendition="simple:additions"/>
+and Self-love in ſuch Parents? but when Parents receive &amp; poſſeſs their Children in the Faith, then the Light rules in the Parents, and that gives daily <hi>wiſdom</hi> to rule the Children in <hi>God's wiſdom;</hi> but when <hi>fleſhly affection</hi> rules, what miſerable <hi>diſorder</hi> doth it bring forth, even amongſt them that profeſs <hi>truth?</hi> and ma<g ref="char:EOLhyphen"/>ny times their <hi>children</hi> grow worſe then many in the <hi>world;</hi> and that which is moſt to be lamented it happens ſometimes, <hi>that the Parents have not quit themſelves as they ought, nor fully clear'd themſelves of their Blood,</hi> ſo that there lies a Guilt upon the Parents, and an Offence and ſtumbling in the minds of the Children, when they come to years, and to ſee how their Parents <hi>Care</hi> was not over them as it ought to have been: Oh, that none among us might be found guilty in this matter, but that every Friend would be diligent to keep a Good Conſcience in the ſight of God, that our Children may have a bleſſed Remembrance of us when we come to be taken from them, and they come to be in our ſtate and condition, and that the Remembrance of our dealing with them may be as a good Pattern to them, and ſo from Generation to Generation, to the Honour and Glory of him who firſt called us, and to the edifying of them in the Faith, and to our Joy and everlaſting Com<g ref="char:EOLhyphen"/>fort, <hi>Amen.</hi>
+            </p>
+            <p>The ſecond thing that lies as a weight upon me, and have done for ſeveral Years, is concerning the <hi>manner of Trading</hi> that is practiſed by ſeveral profeſ<g ref="char:EOLhyphen"/>ſing the pure Principle of Truth, both Merchants and Shop-keepers, and other Trades-men, who take too much Liberty in getting and borowing Money <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f o<g ref="char:EOLhyphen"/>thers to inlarge their Trading in the World, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yond what Truth allows: When I firſt felt the weight of
+<pb n="6" facs="tcp:101480:4" rendition="simple:additions"/>
+this matter upon me, I preſently examined my own Affairs, and took ſuch a courſe as to prevent all peril of any Body ſuffering by me, however things might happen; and the ſame courſe did our Brethren take, who lived in thoſe parts, they feeling the weight of the matter upon them as well as I; ſo that we came to ſit every one as under our own Fig-tree, being ſatis<g ref="char:EOLhyphen"/>fied that if we came to ſuffer loſs in our outward things, whether for our Teſtimony, or by War, or by Sea, we ſhould loſe but our own: But many I find to be otherwiſe minded, who out of a greedy, though uncertain Hope of Profit, gets that which is o<g ref="char:EOLhyphen"/>ther Mens into their Hands; and when they ſee things goes not according to their Expectations, but that Loſſes and Croſſes happens in their Trading, are not ſo faithful and open hearted to let their Creditors know thereof, but rather goes on, ſetting them<g ref="char:EOLhyphen"/>ſelves at Eaſe, and takes a large Liberty in their Houſe-keeping and Expences, as if all that is under their Hands were their own; and this laſts a while, until not only their own, but other mens Eſtates are ſpent alſo, and all the while under a ſhew of Profeſſion, al<g ref="char:EOLhyphen"/>though all uprightneſs, and fear of God, and regard to make a righteous Account with men be loſt; theſe are a ſtink among men, and a ſhame to their Profeſ<g ref="char:EOLhyphen"/>ſion: And this Evil increaſeth daily in ſome parts of this Nation, where many young Ones, brought up among us, and hath little to begin withal, upon the Reputation of Truth dares to adventure upon, and get Credits, and ſet themſelves in a high poſture of Trad<g ref="char:EOLhyphen"/>ing, Houſe-keeping, and Expences. And ſome that are Ancient Profeſſors of Truth, and ſhould watch over them, and Counſel and Bridle them with the Bridle of Truth and Righteouſneſs, in the Power and
+<pb n="7" facs="tcp:101480:4" rendition="simple:additions"/>
+Wiſdom of God, they are ſo incumbred with great Dealings, and great Debts, and Credits, and Adven<g ref="char:EOLhyphen"/>tures, both of what is their own and other mens, that they are not without Peril and Danger of falling ſhort at one time or other, if loſs at Sea, or ſpoiling of Goods for their Teſtimony ſhould happen to them<g ref="char:EOLhyphen"/>ſelves; &amp; in the mean time that Godly care and jealou<g ref="char:EOLhyphen"/>ſie is not taken by ſuch over the younger ſort as it ought to be; but ſome runs on without fear of God, or upright Communication of their State and Condi<g ref="char:EOLhyphen"/>tion unto ſound and faithful weighty Friends (and e<g ref="char:EOLhyphen"/>ſpecially to ſuch, whom they have made to be con<g ref="char:EOLhyphen"/>cerned in their Concerns) as they ought to do from time to time, that it might ſtand in their choice, whe<g ref="char:EOLhyphen"/>ther they would be longer concerned with them or not; which is but a righteous and juſt thing, that eve<g ref="char:EOLhyphen"/>ry Creditor ought to keep, not only the Propriety, but the Command of what is his own, to ask it and re<g ref="char:EOLhyphen"/>ceive it, when he ſees cauſe, and not to be beguiled by great ſhews, as if the Debtor were in a good Con<g ref="char:EOLhyphen"/>dition as to his outward Eſtate, when indeed its very bad: But ſuch do like this World, firſt ſeek the King<g ref="char:EOLhyphen"/>dom of this World under a Profeſſion of Truth: But if the Kingdom of Heaven were firſt ſought, as it ought to be, then every one would ſink down in the fear of God, to feel him leading them and ordering their Trading and Merchandize in ſujection to his Will, <hi>Jam.</hi> 4.13, 14, 15. <hi>Go to now, ye that ſay to day or to mor<g ref="char:EOLhyphen"/>row, We will go into ſuch a City, and continue there a Year, and buy and ſell, and get Gain; whereas ye know not what ſhall be on the morrow: For what is your Life, it is even a Vapour, that appeareth for a little time, and then vaniſheth away. For that ye ought to ſay, If the the Lord will, we ſhall live and do this or that.</hi> And not to go on
+<pb n="8" facs="tcp:101480:5" rendition="simple:additions"/>
+in their own Wills, adventuring the Eſtates of others without their knowledge or conſent; when they them<g ref="char:EOLhyphen"/>ſelves knows well enough, that if the Adventures fail, their Security muſt fail alſo. Oh! how many Wid<g ref="char:EOLhyphen"/>dows and Orphans, Old and Weak are there oppreſſed and wronged by theſe things? Doth not ſuch think and believe that the Want, Poverty, and Cry of theſe will bring down Vengeance from the Righteous God? or think they not, that God will viſit for theſe things for his pretious Truth and Names-ſake, and for the Cry of the Opreſſed? yea, aſſuredly he will plead their Cauſe, and will disburthen and clear his Truth and People of them, &amp; their unrighteous Deeds together.</p>
+            <p>Is it not our duty, both Old and Young, to ſet our Affairs in ſuch a poſture, as that we may be out of danger that any Body ſhould ſuffer by us, while we in the mean time only aim at our own profit &amp; advantage. Oh, let the Truth here be judge, and then I know the Elder Friends will labour to quit themſelves in this matter, and ſo have power to put a ſtop and bridle to ſuch young Ones as takes this courſe, or elſe the peril and reproach of both will lie at their Door in a great meaſure. Oh! that a holy Zeal may increaſe in ma<g ref="char:EOLhyphen"/>ny Hearts for the removing of this great Evil, and let go the eager deſire of great profit; and every one to be content with his own, and ſerve the Lord and his Truth therewith according to his Ability. (and if he pleaſe, he will increaſe it) And take care of the youn<g ref="char:EOLhyphen"/>ger ſort, and become good Examples to them in this matter, that the ſtink of offences in this kind may be ſtopped, and the Truth of God may proſper and flow<g ref="char:EOLhyphen"/>riſh more and more, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>Colcheſter
+<date>the 29th of the 9th Mon. 1677.</date>
+               </dateline>
+               <signed>Geertruyd Deril<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieſen.</signed>
+            </closer>
+            <pb facs="tcp:101480:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
